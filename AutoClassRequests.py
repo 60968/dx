@@ -1,3 +1,4 @@
+# pip install requests schedule
 import re
 import time
 import smtplib
